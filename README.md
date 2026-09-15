@@ -1,3 +1,5 @@
+[![Approva](public/media/social/og-card.png)](https://approvaapp.netlify.app/)
+
 # Approva
 
 Expenses made simple.
