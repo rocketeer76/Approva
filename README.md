@@ -2,6 +2,8 @@
 
 Expenses made simple.
 
+A simple expense approval workflow built with Astro, SolidJS, TypeScript, and Neon Postgres. Employees submit expenses and receipts, managers approve or reject them, and finance tracks payments with audit history and reporting.
+
 ## Local setup
 
 1. Copy `.env.example` to `.env` and add development credentials.
